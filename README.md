@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ardeo82091?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ardeo82091?style=social)
 
-![Header Image]([https://github.com/ardeo82091/ardeo82091/blob/main/header.png](https://via.placeholder.com/1200x300.png?text=Welcome+to+Ankit+Raj's+GitHub+Profile))
+![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+Ankit+Raj's+GitHub+Profile)
 
 ## About Me
 Hello! I'm Ankit Raj, a passionate software developer. With a Bachelor's degree in Computer Science and Engineering, I've honed my skills in software development and have a strong track record of delivering successful projects.
@@ -43,9 +43,6 @@ Hello! I'm Ankit Raj, a passionate software developer. With a Bachelor's degree 
 - Improved user interface and experience with responsive design and modern UI frameworks in React.
 
 ## Contributions
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ardeo82091&theme=github)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardeo82091&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardeo82091&layout=compact&theme=radical)
 
