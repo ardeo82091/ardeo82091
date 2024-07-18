@@ -2,7 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ardeo82091&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/ardeo82091?style=social)
-![GitHub stars](https://img.shields.io/github/stars/ardeo82091?style=social)
 
 ![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+Ankit+Raj's+GitHub+Profile)
 
