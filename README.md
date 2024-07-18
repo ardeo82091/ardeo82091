@@ -39,5 +39,5 @@ Hello! I'm Ankit Raj, a passionate software developer from Patna, Bihar, India. 
 
 ## Contact
 - **Email**: [ardeorajankit@gmail.com](mailto:ardeorajankit@gmail.com)
-- **LinkedIn**: [Ankit Raj]([https://linkedin.com/in/](https://www.linkedin.com/in/ankit-raj-45b5331a1/))
+- **LinkedIn**: [Ankit Raj](https://www.linkedin.com/in/ankit-raj-45b5331a1/)
 - **GitHub**: [ardeo82091](https://github.com/ardeo82091)
