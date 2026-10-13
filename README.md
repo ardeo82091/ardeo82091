@@ -106,7 +106,7 @@ Check out my pinned repositories below to see some of my work.
 
 ## 📫 Let's Connect
 
-**Email:** [ankitraj.dev17@gmail.com](mailto:ankitraj.dev17@gmail.com)
+**Email:** [ankitraj.dev17@gmail.com](mailto:ardeorajankit@gmail.com)
 
 **LinkedIn:** [Ankit Raj](https://www.linkedin.com/in/ankit-raj-45b5331a1/)
 
